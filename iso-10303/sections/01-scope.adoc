@@ -1,0 +1,10 @@
+
+[[scope]]
+== Scope
+
+This document specifies the use of the integrated resources necessary for
+the scope and information requirements for <AP description>. 
+
+[NOTE]
+The scope of this document is further refined in the application activity
+model in <<annex_aam>>.

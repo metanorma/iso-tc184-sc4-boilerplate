@@ -1,0 +1,8 @@
+
+// This annex is conditional
+
+[[annex-h]]
+[appendix,obligation="informative"]
+== Application protocol implementation and usage guide
+
+<insert text here>

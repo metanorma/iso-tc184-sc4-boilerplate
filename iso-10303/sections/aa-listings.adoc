@@ -1,0 +1,16 @@
+
+
+[[annex_exp_lf]]
+[appendix]
+== Listings
+
+=== ARM EXPRESS expanded listing
+
+The <<arm_lf_href,ARM EXPRESS>> expanded listing for this document is
+provided in the AP module, <<ap-module-ref,AP module reference>>.
+
+
+=== MIM EXPRESS expanded listing
+
+The <<mim_lf_href,MIM EXPRESS>> expanded listing for this document is
+provided in the AP module, <<ap-module-ref,AP module reference>>.

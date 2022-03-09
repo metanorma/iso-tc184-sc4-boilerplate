@@ -1,0 +1,75 @@
+
+[[cls_6]]
+== Conformance requirements
+
+=== General
+
+Conformance to this document includes satisfying the requirements stated in this document,
+the requirements of the implementation method(s) supported, and the relevant requirement
+of the normative references.
+
+An implementation shall support at least one of the following implementation methods:
+
+* <<ISO_10303_21>>.
+
+Implementation methods-specific requirements shall be as specified in <<annex_imp_meth>>.
+
+The Protocol Implementation Conformance Statement (PICS) proforma specifies the options
+or the combinations of options that may be included in the implementation. 
+
+The PICS proforma shall be as specified in <<annex_pics>>
+
+
+=== Conformance classes
+
+This document provides for only one conformance class that may be supported by an
+implementation:
+
+* <CC id>: <CC name>.
+
+Support for a particular conformance class requires support of all the mandatory elements
+specified in that class.
+
+Conformance to a particular class requires that all ARM elements defined as part of that
+class be supported. <<cc_arm_table>> defines the classes to which each ARM element belongs.
+<<cc_mim_table>> defines the classes to which each MIM element belongs.
+
+
+=== Conformance class for <CC name> (<CC id>)
+
+The conformance class <CC name> has been declared against the application module
+<<ap-module-ref,AP module reference>>, <AP module reference>.
+
+The scope of the <CC name> conformance class is:
+
+<list of scope elements>
+
+
+=== Conformance options
+
+Implementations may choose to implement some of the following conformance options in
+addition to one or more of the above conformance classes.
+
+Conformance to a particular conformance option requires that all ARM and MIM elements
+defined as part of that option be supported. <<cc_arm_table>> defines the conformance
+options to which each ARM element belongs. <<cc_mim_table>> defines the conformance
+options to which each MIM element belongs.
+
+
+==== Conformance option for <co name> (<co id>)
+
+<co description>
+
+//conditional, if <co ref> exists
+// Conformance to this conformance option requires also support of
+// the underlying conformance option <co ref>.
+
+Conformance to this conformance option requires support of the elements defined 
+in application module(s):
+
+<list of module names>
+
+<<ccs_arm_table_6>> -- Conformance class(es) and option(s) ARM elements
+
+<<ccs_mim_table_6>> -- Conformance class(es) and option(s) MIM elements
+

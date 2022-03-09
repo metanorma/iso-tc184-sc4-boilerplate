@@ -1,0 +1,6 @@
+
+[[annex_changes]]
+[appendix,obligation="informative"]
+== Detailed changes
+
+<insert text here>
