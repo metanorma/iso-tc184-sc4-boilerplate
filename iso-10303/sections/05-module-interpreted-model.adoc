@@ -3,10 +3,10 @@
 == Module interpreted model
 
 The module interpreted model for this AP is the module interpreted model (MIM) specified
-in the AP module, <<ap-module-ref,AP module reference>>, which consists of the mapping
+in the AP module, <<module_cover,AP module reference>>, which consists of the mapping
 specification and the EXPRESS short form.
 
-The mapping specification found in the AP module, <<ap-module-ref,AP module reference>>,
+The mapping specification found in the AP module, <<module_cover,AP module reference>>,
 shows (through inclusion or reference) how each application object maps to one or more
 MIM constructs. 
 
@@ -16,17 +16,17 @@ The expanded listing of the MIM in <<annex_exp_lf>> shall apply.
 [NOTE]
 The ARM entity mapping(((index_arm_mappings,index))) contains a complete list of
 the mappings of ARM entities identified (through inclusion or reference) in the
-information requirements in the AP module  (<<ap-module-ref,AP module reference>>).
+information requirements in the AP module  (<<module_cover,AP module reference>>).
    
 The EXPRESS schema that uses elements from the integrated resources and other
 application modules and contains the types, entity specializations, rules and
 functions that are specific to this document are specified in  the AP module,
-<<ap-module-ref,AP module reference>>.
+<<module_cover,AP module reference>>.
 
 [[mim_lf_href]]
 [NOTE]
 The MIM EXPRESS(((index_mim_express,index))) contains a complete list of MIM
-objects identified in the AP module (<<ap-module-ref,AP module reference>>).
+objects identified in the AP module (<<module_cover,AP module reference>>).
    
 Short names of entities defined in this schema shall be as defined in
 <<annex_shortnames>>. Unambiguous identification of this schema shall

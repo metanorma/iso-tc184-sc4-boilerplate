@@ -26,14 +26,14 @@ for <AP purpose>.
 ==== Model overview
 
 This subclause contains a business overview of the requirements contained in
-the AP module (<<ap-module-ref,AP module reference>>) as represented in the following list of modules.
+the AP module (<<module_cover,AP module reference>>) as represented in the following list of modules.
 
 The detailed information requirements for this AP are defined in the
-AP module (<<ap-module-ref,AP module reference>>.
+AP module (<<module_cover,AP module reference>>.
 
 [NOTE]
 The ARM EXPRESS(((index_arm_express,index))) contains a complete list of all ARM
-objects identified in the information requirements in the AP module (<<ap-module-ref,AP module reference>>).
+objects identified in the information requirements in the AP module (<<module_cover,AP module reference>>).
 
 
 [NOTE]

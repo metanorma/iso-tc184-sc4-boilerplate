@@ -38,7 +38,7 @@ class be supported. <<cc_arm_table>> defines the classes to which each ARM eleme
 === Conformance class for <CC name> (<CC id>)
 
 The conformance class <CC name> has been declared against the application module
-<<ap-module-ref,AP module reference>>, <AP module reference>.
+<<module_cover,AP module reference>>, <AP module reference>.
 
 The scope of the <CC name> conformance class is:
 

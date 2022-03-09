@@ -7,10 +7,10 @@
 === ARM EXPRESS expanded listing
 
 The <<arm_lf_href,ARM EXPRESS>> expanded listing for this document is
-provided in the AP module, <<ap-module-ref,AP module reference>>.
+provided in the AP module, <<module_cover,AP module reference>>.
 
 
 === MIM EXPRESS expanded listing
 
 The <<mim_lf_href,MIM EXPRESS>> expanded listing for this document is
-provided in the AP module, <<ap-module-ref,AP module reference>>.
+provided in the AP module, <<module_cover,AP module reference>>.
