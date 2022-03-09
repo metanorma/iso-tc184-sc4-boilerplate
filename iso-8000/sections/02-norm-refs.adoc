@@ -1,0 +1,8 @@
+
+// ISO 8000-2 is a normative reference for all new ISO 8000 deliverables
+
+[bibliography]
+== Normative references
+
+* [[[ISO_8000-2,ISO 8000-2:2020]]]
+

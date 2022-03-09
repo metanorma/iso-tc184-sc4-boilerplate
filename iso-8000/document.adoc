@@ -1,0 +1,40 @@
+= Data quality -- Part 999: Template document
+:docnumber: 8000
+:partnumber: 999
+:edition: 1
+:copyright-year: 2022
+:revdate: 2022-03-04
+:language: en
+:title-main-en: Data quality
+:title-part-en: Template document
+:doctype: international-standard
+:docstage: 10
+:docsubstage: 00
+:technical-committee-type: TC
+:technical-committee-number: 184
+:technical-committee: Automation systems and integration
+:subcommittee-type: SC
+:subcommittee-number: 4
+:subcommittee: Industrial data
+:workgroup-type: WG
+:workgroup-number: 13
+:workgroup: Industrial Data Quality
+:secretariat: ANSI
+:imagesdir: images
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,pdf,rxl
+:local-cache-only:
+
+// include::sections/00-foreword.adoc[]
+
+include::sections/00-introduction.adoc[]
+
+// include::sections/01-scope.adoc[]
+
+include::sections/02-normrefs.adoc[]
+
+include::sections/03-terms.adoc[]
+
+include::sections/90-annex-a.adoc[]
+
+include::sections/99-bibliography.adoc[]

@@ -1,0 +1,15 @@
+
+[[annex-a]]
+[appendix,obligation="informative"]
+== Document identification
+
+To provide for unambiguous identification of an information object in an open
+system, the following object identifier is assigned to this document. The
+meaning of this value is defined in <<ISO_10303-1>>.
+
+// Update part number in the following block.
+
+[%unnumbered]
+----
+{ iso standard 8000 part(nnn) version(1) }
+----

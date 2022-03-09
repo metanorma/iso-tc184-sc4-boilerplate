@@ -1,0 +1,27 @@
+
+[source="ISO_8000-2"]
+== Terms and definitions
+
+[.boilerplate]
+=== WG13 intro
+
+For the purposes of this document, the terms and definitions given in
+ISO 8000-2:2020 and the following apply.
+
+NOTE:	Prior to publication of this document as an International Standard, the
+following terms and definitions will be published in ISO 8000-2 and removed from
+this document.
+
+ISO and IEC maintain terminological databases for use in standardization at the
+following addresses:
+
+* ISO Online browsing platform: available at
+  http://www.iso.org/obp[http://www.iso.org/obp]
+
+* IEC Electropedia: available at
+  http://www.electropedia.org[http://www.electropedia.org]
+
+
+=== concept one
+
+...
