@@ -14,7 +14,7 @@ This document is a member of the application protocol series. This document spec
 an application protocol (AP) for <AP_purpose>.
 
 This document defines the context and scope for <AP_purpose>, and references the AP
-module (<<ap-module-ref,AP module reference>>) that specifies the information requirements for <AP_purpose>,
+module (<<module_cover,AP module reference>>) that specifies the information requirements for <AP_purpose>,
 and the integrated resources necessary to satisfy those requirements.
 
 Application protocols provide the basis for developing implementations of ISO 10303
@@ -36,12 +36,12 @@ application and specifies the implementation conformance options.
 information requirements. It also contains a data planning model, which provides
 an overview of the information requirements of this domain in domain terminology.
 <<info_reqs_4-3>> includes a reference to the AP module
-(<<ap-module-ref,AP module reference>>), which specifies the details
+(<<module_cover,AP module reference>>), which specifies the details
 of the information requirements of the application.
 
 Resource constructs are interpreted to meet the information requirements.
 
-The interpretation is specified in the AP module (<<ap-module-ref,AP module reference>> that is referenced
+The interpretation is specified in the AP module (<<module_cover,AP module reference>> that is referenced
 in <<main_5>>. This interpretation shows the correspondence between the information
 requirements and the module interpreted model (MIM). The short listing of the MIM that
 specifies the interface to the integrated resources is included by reference from the
