@@ -1,0 +1,6 @@
+
+[[annex_obj_reg]]
+[appendix]
+== Information object registration
+
+<insert text here>

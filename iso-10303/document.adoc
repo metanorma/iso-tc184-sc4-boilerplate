@@ -1,0 +1,65 @@
+= Data quality -- Part 999: Template document
+:docnumber: 10303
+:partnumber: 999
+:edition: 1
+:copyright-year: 2022
+:revdate: 2022-03-04
+:language: en
+:title-main-en: Data quality
+:title-part-en: Template document
+:doctype: international-standard
+:docstage: 10
+:docsubstage: 00
+:technical-committee-type: TC
+:technical-committee-number: 184
+:technical-committee: Automation systems and integration
+:subcommittee-type: SC
+:subcommittee-number: 4
+:subcommittee: Industrial data
+:workgroup-type: WG
+:workgroup-number: 13
+:workgroup: Industrial Data Quality
+:secretariat: ANSI
+:imagesdir: images
+:mn-document-class: iso
+:mn-output-extensions: xml,html,doc,pdf,rxl
+:local-cache-only:
+
+
+include::sections/00-foreword.adoc[]
+
+include::sections/00-introduction.adoc[]
+
+include::sections/01-scope.adoc[]
+
+include::sections/02-norm-refs.adoc[]
+
+include::sections/03-terms.adoc[]
+
+include::sections/04-information-requirements.adoc[]
+
+include::sections/05-module-interpreted-model.adoc[]
+
+include::sections/06-conformance-requirements.adoc[]
+
+include::sections/aa-listings.adoc[]
+
+include::sections/ab-mim-short-names.adoc[]
+
+include::sections/ac-implementation-method.adoc[]
+
+include::sections/ad-protocol-implementation.adoc[]
+
+include::sections/ae-information-object.adoc[]
+
+include::sections/af-application-activity.adoc[]
+
+include::sections/ag-computer-interpretable-listing.adoc[]
+
+include::sections/ah-application-protocol.adoc[]
+
+include::sections/ai-technical-discussions.adoc[]
+
+include::sections/aj-detailed-changes.adoc[]
+
+include::sections/az-bibliography.adoc[]

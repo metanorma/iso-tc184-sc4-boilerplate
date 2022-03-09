@@ -1,0 +1,8 @@
+
+[bibliography]
+== Normative references
+
+* [[[ISO_10303-2,ISO 10303-1:2021]]]
+
+// If there are no references, the following phrase is shown:
+// "There are no normative references in this document."

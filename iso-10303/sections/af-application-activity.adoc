@@ -1,0 +1,6 @@
+
+[[annex_aam]]
+[appendix,obligation="informative"]
+== Application activity model
+
+<insert text here>

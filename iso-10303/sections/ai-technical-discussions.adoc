@@ -1,0 +1,8 @@
+
+// This annex is conditional
+
+[[annex-i]]
+[appendix,obligation="informative"]
+== Technical discussions
+
+<insert text here>

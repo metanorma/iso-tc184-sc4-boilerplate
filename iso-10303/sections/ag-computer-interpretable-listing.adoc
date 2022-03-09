@@ -1,0 +1,6 @@
+
+[[annex-g]]
+[appendix,obligation="informative"]
+== Computer interpretable listing
+
+<insert text here>
