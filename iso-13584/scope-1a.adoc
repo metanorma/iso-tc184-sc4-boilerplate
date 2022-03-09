@@ -1,0 +1,14 @@
+
+== Scope
+
+This document specifies a particular representation category, called
+<name of category>.  
+
+This representation category captures the <essence of category>. 
+
+This representation category may be associated with any of the items defined
+in a parts library. 
+
+This document also defines how representations that belong to this representation
+category may be exchanged within a library exchange context by means of
+<means used to exchange category>.

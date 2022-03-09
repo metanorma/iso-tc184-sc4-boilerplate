@@ -1,0 +1,14 @@
+
+
+== Scope
+
+[NOTE]
+The structure of a library delivery file is defined by a library integrated
+information model specified in one of the logical resource series parts of
+ISO 13584.
+
+[NOTE]
+The ISO13584_f_m_iim_schema, documented in ISO 13584-24, is a library integrated
+information model that defines the structure of a library delivery file.  Such a
+library delivery file may contain instance values that reference the representation
+category and/or the library external files defined in this document.
