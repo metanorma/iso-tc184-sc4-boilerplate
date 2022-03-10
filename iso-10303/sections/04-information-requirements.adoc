@@ -5,7 +5,7 @@
 
 This clause specifies the information required for <AP purpose>
 The information requirements are defined using the terminology
-of the subject area of this application protocol. 
+of the subject area of this application protocol.
 
 [NOTE]
 The information requirements correspond to those of the activities identified as
@@ -16,7 +16,7 @@ being within the scope of this application protocol in <<annex_aam>>.
 
 This subclause describes the business context for the information required
 for <AP purpose>.
-       
+
 // insert text here
 
 
@@ -26,16 +26,18 @@ for <AP purpose>.
 ==== Model overview
 
 This subclause contains a business overview of the requirements contained in
-the AP module (<<module_cover,AP module reference>>) as represented in the following list of modules.
+the AP module (<<module_cover,AP module reference>>) as represented in the
+following list of modules.
 
-The detailed information requirements for this AP are defined in the
-AP module (<<module_cover,AP module reference>>.
+The detailed information requirements for this AP are defined in the AP module
+(<<module_cover,AP module reference>>.
 
 [NOTE]
 The ARM EXPRESS(((index_arm_express,index))) contains a complete list of all ARM
-objects identified in the information requirements in the AP module (<<module_cover,AP module reference>>).
+objects identified in the information requirements in the AP module
+(<<module_cover,AP module reference>>).
 
 
 [NOTE]
 The module(((index_arm_modules,index))) contains a complete list of all the
-modules used in the ARM of this document. 
+modules used in the ARM of this document.

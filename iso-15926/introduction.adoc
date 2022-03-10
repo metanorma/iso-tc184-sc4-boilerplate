@@ -4,52 +4,52 @@
 ISO 15926 is an International Standard for the representation of process plant
 lifecycle information. This representation is specified by a generic, conceptual
 data model that is suitable as the basis for implementation in a shared database
-or data warehouse. 
+or data warehouse.
 
-The data model is designed to be used in conjunction with reference data: standard
-instances that represent data common to a substantial number of experts from the
-process plant engineering supply chain.
+The data model is designed to be used in conjunction with reference data:
+standard instances that represent data common to a substantial number of experts
+from the process plant engineering supply chain.
 
-The support for a specific life-cycle activity depends on the use of an appropriate
-selection of reference data in conjunction with an appropriate data model derived
-from the ISO 15926 data model ontology. 
+The support for a specific life-cycle activity depends on the use of an
+appropriate selection of reference data in conjunction with an appropriate data
+model derived from the ISO 15926 data model ontology.
 
-ISO 15926 is organized as a number of parts, each published separately. This document
-specifies:
+ISO 15926 is organized as a number of parts, each published separately.
+This document specifies:
 
-* ISO 15926 -- 1: Overview and fundamental principles, published in 2004;
+* ISO 15926-1: Overview and fundamental principles, published in 2004;
 
-* ISO 15926 -- 2: Data model, published in 2003;
+* ISO 15926-2: Data model, published in 2003;
 
-* ISO/TS 15926 -- 3: Reference data for geometry and topology, published in 2009;
+* ISO/TS 15926-3: Reference data for geometry and topology, published in 2009;
 
-* ISO/TS 15926 -- 4: Initial reference data, published in 2007;
+* ISO/TS 15926-4: Initial reference data, published in 2007;
 
-* ISO/TS 15926 -- 6: Methodology for the development and validation of reference data,
-published in 2013;
+* ISO/TS 15926-6: Methodology for the development and validation of reference
+  data, published in 2013;
 
-* ISO/TS 15926 -- 7: Implementation methods for the integration of distributed systems:
-Template methodology, published in 2013;
+* ISO/TS 15926-7: Implementation methods for the integration of distributed
+  systems: Template methodology, published in 2013;
 
-* ISO/TS 15926 -- 8: Implementation methods for the integration of distributed systems:
-Web Ontology Language (OWL) implementation, published in 2013;
+* ISO/TS 15926-8: Implementation methods for the integration of distributed
+  systems: Web Ontology Language (OWL) implementation, published in 2013;
 
-* ISO/TS 15926 -- 9: Implementation methods for the integration of distributed systems --
-Façade implementation, not yet in ballot;
+* ISO/TS 15926-9: Implementation methods for the integration of distributed
+  systems -- Façade implementation, not yet in ballot;
 
-* ISO/TS 15926 -- 10: Conformance testing, planned published in 2018;
+* ISO/TS 15926-10: Conformance testing, planned published in 2018;
 
-* ISO/TS 15926 -- 11: Methodology for simplified industrial usage of reference data,
-published in 2015;
+* ISO/TS 15926-11: Methodology for simplified industrial usage of reference
+  data, published in 2015;
 
-* ISO/TS 15926 -- 12: Life cycle integration ontology represented in OWL,
-planned published in 2018;
+* ISO/TS 15926-12: Life cycle integration ontology represented in OWL, planned
+  published in 2018;
 
-* ISO 15926 -- 13: Integrated asset planning life-cycle (ILAP), planned published in 2018;
+* ISO 15926-13: Integrated asset planning life-cycle (ILAP), planned published
+  in 2018;
 
-* ISO/TR 15926-14: ISO 15926-2 Data model adapted for OWL 2 Direct Semantics planned
-published in 2019;
+* ISO/TR 15926-14: ISO 15926-2 Data model adapted for OWL 2 Direct Semantics
+  planned published in 2019;
 
-* ISO 15926-5 has been replaced by an annex to ISO/TC 184/SC 4: Procedure for development
-and maintenance of reference data in database format.
-
+* ISO 15926-5 has been replaced by an annex to ISO/TC 184/SC 4: Procedure for
+  development and maintenance of reference data in database format.

@@ -1,7 +1,6 @@
 
-
 == Scope
 
 This document specifies how representations that belong to the
 <name of a representation category> may be exchanged by means
-of <means used to exchange category>. 
+of <means used to exchange category>.
