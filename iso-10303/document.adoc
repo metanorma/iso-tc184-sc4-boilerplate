@@ -1,11 +1,12 @@
-= Data quality -- Part 999: Template document
+= STEP -- Part 999: Template document
 :docnumber: 10303
 :partnumber: 999
 :edition: 1
 :copyright-year: 2022
 :revdate: 2022-03-04
 :language: en
-:title-main-en: Data quality
+:title-intro-en: Industrial automation systems and integration
+:title-main-en: Product data representation and exchange
 :title-part-en: Template document
 :doctype: international-standard
 :docstage: 10
@@ -17,8 +18,8 @@
 :subcommittee-number: 4
 :subcommittee: Industrial data
 :workgroup-type: WG
-:workgroup-number: 13
-:workgroup: Industrial Data Quality
+:workgroup-number: 12
+:workgroup: STEP product modelling and resources
 :secretariat: ANSI
 :imagesdir: images
 :mn-document-class: iso

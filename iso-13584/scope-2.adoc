@@ -1,5 +1,4 @@
 
-
 == Scope
 
 [NOTE]
@@ -10,5 +9,6 @@ ISO 13584.
 [NOTE]
 The ISO13584_f_m_iim_schema, documented in ISO 13584-24, is a library integrated
 information model that defines the structure of a library delivery file.  Such a
-library delivery file may contain instance values that reference the representation
-category and/or the library external files defined in this document.
+library delivery file may contain instance values that reference the
+representation category and/or the library external files defined in this
+document.

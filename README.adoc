@@ -21,71 +21,50 @@ Quality Committee.
 
 == Contents
 
-* `iso-8000` contains a template that contains boilerplate content for
+=== General
+
+* `iso-8000` provides a document template with boilerplate content for
   deliverables of the ISO 8000 series.
+
+* `iso-10303` provides a document template with boilerplate content for
+  deliverables of the ISO 10303 series.
+
+* `iso-13584` provides 3 different scopes for use in the ISO 13584 series.
+
+* `iso-15926` provides the default introduction for use in the ISO 15926 series.
 
 NOTE: Other boilerplate content will be offered when ready.
 
-== Reference
+=== ISO 10303 replacement strings
 
-Please refer to https://www.metanorma.org on how to use this repository.
-
-////
-The `ISO` folder only apply to the developers of supporting tools like STEPmod and STEPlib.
-
-The ISO folder contains:
-- Boilerplate which is copied from the ISO Simple template.
-- 3 grey logos if we need to use ISO logo for the html publication.
-
-The ISO_TC184_SC4 folder contains:
-- the required boilerplate text for the SC 4 documents.
-
-Then each series folder contains:
-- the boilerplate text for the series.
-
-For all our documents, the SC 4 fragments apply.
-For all our series documents the series fragment, if any, replaces the SC 4 fragment.
-
-Example:
-
-- In ISO 10303, the first element of the scope for an application protocol is defined in the fragment 10303_AP_Scope-1.txt in the ISO_10303/AP folder.
-
-This fragment has to be used in place of the SC4_Scope-1.txt for the 10303 application protocol documents.
-
-Then, SC4_Scope-2.txt and SC4_Scope-3.txt are used.
-
-- Therefore, ISO 10303 application protocol scope is composed of 10303_AP_Scope-1.txt, followed by SC4_Scope-2.txt and SC4_Scope-3.txt.  SC4_Scope-3.txt is conditional.
-
-In ISO 8000 we use the SC 4 required text without changes.
-
-- Therefore, the ISO 8000 scope is composed of SC4_Scope-1.txt, followed by SC4_Scope-2.txt and SC4_Scope-3.txt. SC4_Scope-3.txt is conditional.
-
-All the references to the files are relative to this repository.
-
-== 10303 replacement strings (provided in the files between angle brackets)
+This table describes content to be filled-in for the placeholder fields provided
+in the files between angle brackets.
 
 |===
-| string |	example
+h| String | Example
 
 | AP module reference
-|	example: ISO/TS 10303-410
+| example: ISO/TS 10303-410
 
 | AP purpose
-|	example: the use of the integrated resources necessary for the scope and
+| example: the use of the integrated resources necessary for the scope and
 information requirements for the design of electronic assemblies, interconnect
 and packaging.
 
 | AP name
-|	example: Electronic assembly, interconnect and packaging design
+| example: Electronic assembly, interconnect and packaging design
 
 | AP schema
-|	example: Ap210_electronic_assembly_interconnect_and_packaging_design schema
+| example: Ap210_electronic_assembly_interconnect_and_packaging_design schema
 
 | MIM LF name
-|	example: AP210_ELECTRONIC_ASSEMBLY_INTERCONNECT_AND_PACKAGING_DESIGN_MIM_LF
+| example: AP210_ELECTRONIC_ASSEMBLY_INTERCONNECT_AND_PACKAGING_DESIGN_MIM_LF
 
 | schema identification
-|	example: 1 0 10303 410 5 1 4
+| example: 1 0 10303 410 5 1 4
 
 |===
-////
+
+== Reference
+
+Please refer to https://www.metanorma.org on how to use this repository.
