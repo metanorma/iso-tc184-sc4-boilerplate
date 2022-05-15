@@ -2,11 +2,28 @@
 [bibliography]
 == Bibliography
 
-* [[[ISO_8000-1,ISO 8000-1]]]
-* [[[ISO_8000-8, ISO 8000-8]]]
-* [[[ISO_8000-61, ISO 8000-61]]]
-* [[[ISO-TS_8000-81,ISO/TS 8000-81]]]
-* [[[ISO_8000-110, ISO 8000-110]]]
-* [[[ISO-TS_8000-311,ISO/TS 8000-311]]]
-* [[[ISO_9000,ISO 9000]]]]
+// [Add the following entries to the Bibliography of the document in which the
+// Introduction has been inserted.]
+
+* [[[ISO_8000-1,ISO 8000-1]]], Data quality — Part 1: Overview
+
+* [[[ISO_8000-8, ISO 8000-8]]], Data quality — Part 8: Information and data
+quality: Concepts and measuring
+
+* [[[ISO_8000-61, ISO 8000-61]]], Data quality — Part 61: Data quality
+management: Process reference model
+
+* [[[ISO-TS_8000-81,ISO/TS 8000-81]]], Data quality — Part 81: Data quality
+assessment: Profiling
+
+* [[[ISO_8000-110, ISO 8000-110]]], Data quality — Part 110: Master data:
+Exchange of characteristic data: Syntax, semantic encoding, and conformance to
+data specification
+
+* [[[ISO-TS_8000-311,ISO/TS 8000-311]]], Data quality — Part 311: Guidance for
+the application of product data quality for shape (PDQ S)
+
+* [[[ISO_9000,ISO 9000]]]], Quality management systems — Fundamentals and
+vocabulary quality
+
 * [[[ISO_10303-1,ISO 10303-1]]]
