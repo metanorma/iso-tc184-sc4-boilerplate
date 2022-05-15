@@ -1,17 +1,34 @@
 
-// This is the ISO 8000 common introduction as specified in WG 13 N 954
+// This is the ISO 8000 common introduction as specified on 2022-04-01
 //
 // [Copy the remainder of this document into the Introduction for the individual
-// part of ISO 8000 being created. Follow and then delete all editing
-// instructions, which are formatted as per this instruction.]
+// part of ISO 8000 being created. Follow and then delete all editing instructions,
+// which are formatted as per this instruction.
+//
+// This document is the consensus of ISO/TC 184/SC 4/WG 13 (Industrial data
+// quality) as a common Introduction for all parts of the ISO 8000 series.
+//
+// The purpose of this introduction is to enable potential users to understand the
+// value of the individual part and the wider ISO 8000 series.
+//
+// The content establishes a common identity for the ISO 8000 series. This content
+// is also informative and, therefore, is freely accessible from the ISO Online
+// Browsing Platform.
+//
+// The free access removes a barrier to a user being able to decide which parts of
+// the ISO 8000 series are mist relevant to whatever data quality issue is
+// affecting the user.]
+
 
 == Introduction
+
+=== Foundations of the ISO 8000 series
 
 Digital data deliver value by enhancing all aspects of organizational
 performance including:
 
 * operational effectiveness and efficiency;
-* safety;
+* safety and security;
 * reputation with customers and the wider public;
 * compliance with statutory regulations;
 * innovation;
@@ -42,10 +59,9 @@ The biggest impact of digital data comes from two key factors:
 [example]
 A research scientist writes a report using a software application for word
 processing. This report includes a table that uses a clear, logical layout to
-show  results from an experiment. These results indicate how material
-properties vary with temperature. The report is read by a designer,
-who uses the results to create a product that works in a range of different
-operating temperatures.
+show results from an experiment. These results indicate how material properties
+vary with temperature. The report is read by a designer, who uses the results to
+create a product that works in a range of different operating temperatures.
 
 * the data being computer processable (machine readable) rather than just being
 for a person to read and understand.
@@ -116,34 +132,24 @@ implementing solutions that prevent future reoccurrence of those nonconformities
 
 [example]
 If a data set includes dates in multiple formats including "yyyy-mm-dd",
-"mm-dd-yy" and "dd-mm-yy" then data cleansing can correct the consistency of the
+"mm-dd-yy" and "dd-mm-yy", then data cleansing can correct the consistency of the
 values. Such cleansing requires additional information, however, to resolve
-ambiguous entries ("04-05-20"). The cleansing also cannot address any process
-issues and people issues, including training, that have caused the
+ambiguous entries (such as, "04-05-20"). The cleansing also cannot address any
+process issues and people issues, including training, that have caused the
 inconsistency.
+
+
+=== Role of this document
 
 // [Edit the following paragraph to introduce the content of the individual part of
 // ISO 8000 and the series of related parts, if any. This content should also
 // indicate the purpose of the individual part, i.e. the benefit to an organization
-// from implementing the part. Also remember to adjust references to “this
-// document” if they currently indicate the individual part of ISO 8000 by number
+// from implementing the part. Also remember to adjust references to "this
+// document" if they currently indicate the individual part of ISO 8000 by number
 // (e.g. ISO 8000 1) elsewhere in the text of this common introduction.]
 
 As a contribution to this overall capability of the ISO 8000 series, this
-document specifies requirements for data to be portable data. Portable data
-is data that fully preserves the meaning of the original information that was
-transformed into data. Portable data is important to organizations because it
-can exist independently from the application that was used to transform
-information into data, and ensures that the original information can be
-reliably transformed into data and therefore can be used by any other
-application. Portable data is required in the creation of interoperable
-systems and for the protection of intellectual property in data.
-
-This document describes requirements of portable data, requirements of
-dictionary concept identifiers, syntax and semantics of the structured
-data format, and the mechanism to represent portable data in the structured
-data format. In general, portable data requires a filename, character
-encoding, a syntax and explicit semantic encoding.
+document ... .
 
 Organizations can use this document on its own or in conjunction with
 other parts of the ISO 8000 series.
@@ -157,20 +163,27 @@ This document supports activities that affect:
 * data flows within the organization and with external organizations;
 * any phase of the data life cycle.
 
+=== Benefits of the ISO 8000 series
+
 By implementing parts of the ISO 8000 series to improve organizational
 performance, an organization achieves the following benefits:
 
 * objective validation of the foundations for digital transformation of
 the organization;
+
 * a sustainable basis for data in digital form becoming a fundamental asset
 class the organization relies on to deliver value;
+
 * securing evidence-based trust from other parties (including supply chain
 partners and regulators) about the repeatability and reliability of data
 and information processing in the organization;
+
 * portability of data with resulting protection against loss of intellectual
 property and reusability across the organization and applications;
+
 * effective and efficient interoperability between all parties in a supply
 chain to achieve traceability of data back to original sources;
+
 * readiness to acquire or supply services where the other party expects to
 work with common understanding of explicit data requirements.
 
@@ -184,7 +197,14 @@ data quality. ISO 8000-2 presents the vocabulary structured by a series of
 topic areas (for example, terms relating to quality and terms relating to data
 and information).
 
+ISO has identified ISO 8000-1, ISO 8000-2 and ISO 8000-8 as horizontal
+deliverables
+footnote:[Deliverable dealing with a subject relevant to a number of committees
+or sectors or of crucial importance to ensure coherence across standardization
+deliverables.].
+
 // Update reference link of Annex A if necessary
 
-<<annex-a>> of this document contains an identifier that unambiguously
-identifies this document in an open information system.
+<<annex-a>> of this document contains an identifier that conforms to
+ISO/IEC 8824-1. The identifier unambiguously identifies this document in an open
+information system.
