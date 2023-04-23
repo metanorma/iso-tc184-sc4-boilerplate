@@ -1,0 +1,10 @@
+---
+metanorma:
+  source:
+    files:
+    - iso-10303/document.adoc
+    - iso-8000/document.adoc
+
+  collection:
+    organization: "Metanorma : Standards for standards"
+    name: "ISO/TC 184/SC 4 boilerplate content in Metanorma format"
